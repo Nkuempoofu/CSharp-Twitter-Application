@@ -1,0 +1,9 @@
+C:\Users\ACER\source\repos\CSharp-Twitter-Application\TweetManager\bin\Debug\netstandard2.0\TweetManager.deps.json
+C:\Users\ACER\source\repos\CSharp-Twitter-Application\TweetManager\bin\Debug\netstandard2.0\TweetManager.dll
+C:\Users\ACER\source\repos\CSharp-Twitter-Application\TweetManager\bin\Debug\netstandard2.0\TweetManager.pdb
+C:\Users\ACER\source\repos\CSharp-Twitter-Application\TweetManager\obj\Debug\netstandard2.0\TweetManager.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\CSharp-Twitter-Application\TweetManager\obj\Debug\netstandard2.0\TweetManager.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\CSharp-Twitter-Application\TweetManager\obj\Debug\netstandard2.0\TweetManager.AssemblyInfo.cs
+C:\Users\ACER\source\repos\CSharp-Twitter-Application\TweetManager\obj\Debug\netstandard2.0\TweetManager.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\CSharp-Twitter-Application\TweetManager\obj\Debug\netstandard2.0\TweetManager.dll
+C:\Users\ACER\source\repos\CSharp-Twitter-Application\TweetManager\obj\Debug\netstandard2.0\TweetManager.pdb
